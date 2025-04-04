@@ -6,16 +6,28 @@ PhD in Theoretical Physics | Data Science | Web Development | Augmented Reality
 
 **since 02/2024**  
 Python Backend Developer — *[Prosumio GmbH, Berlin](https://prosumio.de/)*
+- Development of a Python backend for a web application using Django and Wagtail
+- Implementation of REST APIs and Celery for asynchronous task management
+- Integration of MQTT (EMQX) for real-time data processing
 
 **01/2024 – 06/2024**  
 Senior Data Scientist — *[Teraki GmbH, Berlin](https://www.teraki.com/)*
+- Object detection in LiDAR and camera data using modern deep learning techniques
+- AWS EC2 and S3 for cloud computing and storage
+- Spiking neural networks for real-time event camera data analysis
 
 **06/2023 – 12/2023**  
 Augmented Reality Software Developer — *[BetaRoom UG, Berlin](https://www.betaroom.vision/)*
+- Developed the augmented reality application 'KIKI Games'
+- Optimized 3D rendering performance for mobile devices
+- Porting an AR application from iOS to Oculus Quest 2
 
-**05/2020 - 05/2023**  
+**05/2020 – 05/2023**  
 Freelance Programmer — *Freelance, Berlin*
-- Development of augmented reality applications'KIKI Games' and 'Augmented Berlin' in Unity for iOS and Android
+- Developed the augmented reality applications 'KIKI Games' and 'Augmented Berlin'
+- Cross-platform development in Unity for iOS and Android
+- Designed and implemented custom AR solutions for clients
+- Collaborated with designers to create interactive AR experiences
 
 **12/2016 – 11/2018**  
 Scientific Assistant — *Max Planck Institute for the Physics of Complex Systems, Dresden*
@@ -47,15 +59,12 @@ High School Diploma in  — *von-Bülow Gymnasium Neudietendorf*
 
 **01/2022 – 04/2022**  
 Data Science Bootcamp — *Data Science Retreat, Berlin*
-- Topics: NumPy, Pandas, SQL, Docker, Deep Learning, NLP, Transfer Learning, Reinforcement Learning
 
 **12/2018 – 04/2020**  
 Cycling trips through South America and Europe — *Worldwide*
 
 **01/2013 – 06/2013**  
 Research stay with Igor Aronson — *Argonne National Lab, Chicago*
-- Mathematical modeling and numerical solution of a crawling cell model in CUDA
-- Publication: 'Collisions of deformable cells lead to collective migration' in Scientific Reports
 
 **04/2016 – 07/2016**  
 Tutor for 'Thermodynamics and Statistical Physics' — *Institute for Theoretical Physics, TU Berlin*
@@ -85,6 +94,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <th align='left' style='padding-right: 20px;'><strong>Scientific & Engineering Tools</strong></th>
 <th align='left' style='padding-right: 20px;'><strong>Web Development & Backend</strong></th>
 <th align='left' style='padding-right: 20px;'><strong>DevOps, CI/CD & Tooling</strong></th>
+<th align='left' style='padding-right: 20px;'><strong>Testing & Code Quality</strong></th>
 </tr>
 <tr>
 <td style='padding-right: 20px;'>[■■■■■■■■■□]<br>Python</td>
@@ -93,6 +103,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■■■■■■■]<br>Mathematica</td>
 <td style='padding-right: 20px;'>[■■■■■■■■■□]<br>Django</td>
 <td style='padding-right: 20px;'>[■■■■■■■■■□]<br>Git</td>
+<td style='padding-right: 20px;'>[■■■■■■■■□□]<br>unittest</td>
 </tr>
 <tr>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>C#</td>
@@ -101,6 +112,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■■■■■□□]<br>Lyx</td>
 <td style='padding-right: 20px;'>[■■■■■■■■□□]<br>MQTT (EMQX)</td>
 <td style='padding-right: 20px;'>[■■■■■■■■□□]<br>Docker</td>
+<td style='padding-right: 20px;'>[■■■■■■■■□□]<br>TTD (Test-Driven Development)</td>
 </tr>
 <tr>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Dart</td>
@@ -109,6 +121,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■■■■□□□]<br>LaTeX</td>
 <td style='padding-right: 20px;'>[■■■■■■■□□□]<br>Wagtail</td>
 <td style='padding-right: 20px;'>[■■■■■■□□□□]<br>Bitbucket</td>
+<td style='padding-right: 20px;'>[■■■■■■□□□□]<br>coverage.py</td>
 </tr>
 <tr>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>bash</td>
@@ -117,6 +130,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>LiDAR</td>
 <td style='padding-right: 20px;'>[■■■■■■□□□□]<br>REST APIs</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>make</td>
+<td style='padding-right: 20px;'>[■■■■□□□□□□]<br>pytest</td>
 </tr>
 <tr>
 <td style='padding-right: 20px;'>[■■■■□□□□□□]<br>C/C++</td>
@@ -125,6 +139,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■□□□□□□]<br>Matlab</td>
 <td style='padding-right: 20px;'>[■■■■■■□□□□]<br>Celery</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Bitbucket CI/CD pipeline</td>
+<td style='padding-right: 20px;'>[■■■■□□□□□□]<br>Ruff</td>
 </tr>
 <tr>
 <td style='padding-right: 20px;'>[■■■□□□□□□□]<br>Java</td>
@@ -132,7 +147,8 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>wandb</td>
 <td style='padding-right: 20px;'>[■■■□□□□□□□]<br>ROS</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>PostgreSQL</td>
-<td style='padding-right: 20px;'>[■■■■■□□□□□]<br>GitHub</td>
+<td style='padding-right: 20px;'>[■■■■□□□□□□]<br>AWS</td>
+<td style='padding-right: 20px;'>[■■□□□□□□□□]<br>Black</td>
 </tr>
 <tr>
 <td style='padding-right: 20px;'>[■■■□□□□□□□]<br>JSON</td>
@@ -140,7 +156,8 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Object Detection (YOLO)</td>
 <td style='padding-right: 20px;'>[■■□□□□□□□□]<br>LabView</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>SQLite</td>
-<td style='padding-right: 20px;'>[■■■■■□□□□□]<br>SOPS</td>
+<td style='padding-right: 20px;'>[■■□□□□□□□□]<br>Kubernetes</td>
+<td style='padding-right: 20px;'>[■■□□□□□□□□]<br>pre-commit</td>
 </tr>
 <tr>
 <td style='padding-right: 20px;'>[■■□□□□□□□□]<br>JavaScript</td>
@@ -148,7 +165,8 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■□□□□□□]<br>Modern Hopfield Networks</td>
 <td></td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>JWT</td>
-<td style='padding-right: 20px;'>[■■□□□□□□□□]<br>Kubernetes</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td style='padding-right: 20px;'>[■□□□□□□□□□]<br>HTML</td>
@@ -156,6 +174,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■□□□□□□□]<br>Comet</td>
 <td></td>
 <td style='padding-right: 20px;'>[■■■■□□□□□□]<br>Redis</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -165,6 +184,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td></td>
 <td style='padding-right: 20px;'>[■■□□□□□□□□]<br>Nginx</td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -172,6 +192,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td></td>
 <td></td>
 <td style='padding-right: 20px;'>[■■□□□□□□□□]<br>MySQL</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -181,10 +202,12 @@ Backpacking through Asia and Africa — *Worldwide*
 <td></td>
 <td style='padding-right: 20px;'>[■■□□□□□□□□]<br>Jinja</td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td style='padding-right: 20px;'>[■■■■□□□□□□]<br>typing (type hints)</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -197,10 +220,12 @@ Backpacking through Asia and Africa — *Worldwide*
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td style='padding-right: 20px;'>[■■■□□□□□□□]<br>Plotly</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -213,10 +238,12 @@ Backpacking through Asia and Africa — *Worldwide*
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td style='padding-right: 20px;'>[■■■□□□□□□□]<br>PyTorch Lightning</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -229,6 +256,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -237,77 +265,87 @@ Backpacking through Asia and Africa — *Worldwide*
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 </table>
 
 <table><tr>
-<th align='left' style='padding-right: 20px;'><strong>Testing & Code Quality</strong></th>
 <th align='left' style='padding-right: 20px;'><strong>Mobile & Cross-Platform Development</strong></th>
 <th align='left' style='padding-right: 20px;'><strong>Visualization, UI & Graphics</strong></th>
 <th align='left' style='padding-right: 20px;'><strong>Operating Systems & Shell</strong></th>
 <th align='left' style='padding-right: 20px;'><strong>Project & Team Collaboration</strong></th>
 <th align='left' style='padding-right: 20px;'><strong>Markup & Documentation</strong></th>
+<th align='left' style='padding-right: 20px;'><strong>Soft Skills & Meta Skills</strong></th>
+<th align='left' style='padding-right: 20px;'></th>
 </tr>
 <tr>
-<td style='padding-right: 20px;'>[■■■■■■■■□□]<br>unittest</td>
 <td style='padding-right: 20px;'>[■■■■■■□□□□]<br>Flutter</td>
 <td style='padding-right: 20px;'>[■■■■■■■■□□]<br>OpenCV</td>
 <td style='padding-right: 20px;'>[■■■■■■■■■□]<br>Linux (Ubuntu, Debian)</td>
 <td style='padding-right: 20px;'>[■■■■■■■■□□]<br>Jira</td>
 <td style='padding-right: 20px;'>[■■■■■■■■■□]<br>Lyx</td>
+<td style='padding-right: 20px;'>[■■■■■■■■■□]<br>Scientific Writing</td>
+<td></td>
 </tr>
 <tr>
-<td style='padding-right: 20px;'>[■■■■■■■■□□]<br>TTD (Test-Driven Development)</td>
 <td style='padding-right: 20px;'>[■■■■■■□□□□]<br>iOS</td>
 <td style='padding-right: 20px;'>[■■■■■■■■□□]<br>Unity</td>
 <td style='padding-right: 20px;'>[■■■■■■■□□□]<br>bash</td>
 <td style='padding-right: 20px;'>[■■■■■■□□□□]<br>Slack</td>
 <td style='padding-right: 20px;'>[■■■■■■■■□□]<br>LaTeX</td>
+<td style='padding-right: 20px;'>[■■■■■■■■■□]<br>Research Skills</td>
+<td></td>
 </tr>
 <tr>
-<td style='padding-right: 20px;'>[■■■■■■□□□□]<br>coverage.py</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Android Studio</td>
 <td style='padding-right: 20px;'>[■■■■■■□□□□]<br>Computer Vision</td>
 <td style='padding-right: 20px;'>[■■■■■■■□□□]<br>ssh</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Confluence</td>
 <td style='padding-right: 20px;'>[■■■■■■□□□□]<br>Markdown</td>
+<td style='padding-right: 20px;'>[■■■■■■■■□□]<br>University Teaching</td>
+<td></td>
 </tr>
 <tr>
-<td style='padding-right: 20px;'>[■■■■□□□□□□]<br>pytest</td>
 <td style='padding-right: 20px;'>[■■■■□□□□□□]<br>Android</td>
 <td style='padding-right: 20px;'>[■■■■■■□□□□]<br>3D Visualization</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>GCC</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Chrome</td>
 <td></td>
+<td style='padding-right: 20px;'>[■■■■■■■■□□]<br>Presentation Skills</td>
+<td></td>
 </tr>
 <tr>
-<td style='padding-right: 20px;'>[■■■■□□□□□□]<br>Ruff</td>
 <td style='padding-right: 20px;'>[■■■□□□□□□□]<br>Xcode</td>
 <td style='padding-right: 20px;'>[■■■□□□□□□□]<br>Blender</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Putty</td>
 <td></td>
 <td></td>
+<td style='padding-right: 20px;'>[■■■■■■■■□□]<br>Mathematical Modeling</td>
+<td></td>
 </tr>
 <tr>
-<td style='padding-right: 20px;'>[■■□□□□□□□□]<br>Black</td>
 <td></td>
 <td style='padding-right: 20px;'>[■■■□□□□□□□]<br>GIMP</td>
 <td style='padding-right: 20px;'>[■■■□□□□□□□]<br>Unix</td>
 <td></td>
 <td></td>
+<td style='padding-right: 20px;'>[■■■■■■■□□□]<br>Data Analysis</td>
+<td></td>
 </tr>
 <tr>
-<td style='padding-right: 20px;'>[■■□□□□□□□□]<br>pre-commit</td>
 <td></td>
 <td style='padding-right: 20px;'>[■■■□□□□□□□]<br>Inkscape</td>
 <td></td>
 <td></td>
 <td></td>
+<td style='padding-right: 20px;'>[■■■■■■□□□□]<br>Teaching</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td style='padding-right: 20px;'>[■□□□□□□□□□]<br>Qt</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

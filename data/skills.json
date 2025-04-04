@@ -1,125 +1,133 @@
 {
-    "Programming Languages": [
-      {"name": "Python", "score": 9},
-      {"name": "C#", "score": 5},
-      {"name": "Dart", "score": 5},
-      {"name": "bash", "score": 5},
-      {"name": "C/C++", "score": 4},
-      {"name": "Java", "score": 3},
-      {"name": "JSON", "score": 3},
-      {"name": "JavaScript", "score": 2},
-      {"name": "HTML", "score": 1},
-      {"name": "CSS", "score": 1}
-    ],
-    "Python Ecosystem": [
-      {"name": "NumPy", "score": 8},
-      {"name": "matplotlib", "score": 8},
-      {"name": "PyTorch", "score": 7},
-      {"name": "pip", "score": 7},
-      {"name": "Jupyter Notebook", "score": 7},
-      {"name": "SciPy", "score": 5},
-      {"name": "Conda", "score": 5},
-      {"name": "scikit-learn", "score": 5},
-      {"name": "virtualenv", "score": 5},
-      {"name": "SymPy", "score": 5},
-      {"name": "TensorFlow", "score": 5},
-      {"name": "Pandas", "score": 4},
-      {"name": "typing (type hints)", "score": 4},
-      {"name": "Poetry", "score": 4},
-      {"name": "Plotly", "score": 3},
-      {"name": "seaborn", "score": 3},
-      {"name": "PyTorch Lightning", "score": 3},
-      {"name": "Keras", "score": 3},
-      {"name": "h5py", "score": 2}
-    ],
-    "Machine Learning & AI": [
-      {"name": "CNNs", "score": 9},
-      {"name": "Deep Learning", "score": 7},
-      {"name": "Reinforcement Learning", "score": 7},
-      {"name": "Q-learning", "score": 7},
-      {"name": "Copilot", "score": 6},
-      {"name": "wandb", "score": 5},
-      {"name": "Object Detection (YOLO)", "score": 5},
-      {"name": "Modern Hopfield Networks", "score": 4},
-      {"name": "Comet", "score": 3}
-    ],
-    "Scientific & Engineering Tools": [
-      {"name": "Mathematica", "score": 10},
-      {"name": "Lyx", "score": 8},
-      {"name": "LaTeX", "score": 7},
-      {"name": "LiDAR", "score": 5},
-      {"name": "Matlab", "score": 4},
-      {"name": "ROS", "score": 3},
-      {"name": "LabView", "score": 2}
-    ],
-    "Web Development & Backend": [
-      {"name": "Django", "score": 9},
-      {"name": "MQTT (EMQX)", "score": 8},
-      {"name": "Wagtail", "score": 7},
-      {"name": "REST APIs", "score": 6},
-      {"name": "Celery", "score": 6},
-      {"name": "PostgreSQL", "score": 5},
-      {"name": "SQLite", "score": 5},
-      {"name": "JWT", "score": 5},
-      {"name": "Redis", "score": 4}, 
-      {"name": "Nginx", "score": 2},
-      {"name": "MySQL", "score": 2},
-      {"name": "Jinja", "score": 2}
-    ],
-    "DevOps, CI/CD & Tooling": [
-      {"name": "Git", "score": 9},
-      {"name": "Docker", "score": 8},
-      {"name": "Bitbucket", "score": 6},
-      {"name": "make", "score": 5},
-      {"name": "Bitbucket CI/CD pipeline", "score": 5},
-      {"name": "GitHub", "score": 5},
-      {"name": "SOPS", "score": 5},
-      {"name": "Kubernetes", "score": 2}
-    ],
-    "Testing & Code Quality": [
-      {"name": "unittest", "score": 8},
-      {"name": "TTD (Test-Driven Development)", "score": 8},
-      {"name": "coverage.py", "score": 6},
-      {"name": "pytest", "score": 4},
-      {"name": "Ruff", "score": 4},
-      {"name": "Black", "score": 2},
-      {"name": "pre-commit", "score": 2}
-    ],
-    "Mobile & Cross-Platform Development": [
-      {"name": "Flutter", "score": 6},
-      {"name": "iOS", "score": 6},
-      {"name": "Android Studio", "score": 5},
-      {"name": "Android", "score": 4},
-      {"name": "Xcode", "score": 3}
-    ],
-    "Visualization, UI & Graphics": [
-      {"name": "OpenCV", "score": 8},
-      {"name": "Unity", "score": 8},
-      {"name": "Computer Vision", "score": 6},
-      {"name": "3D Visualization", "score": 6},
-      {"name": "Blender", "score": 3},
-      {"name": "GIMP", "score": 3},
-      {"name": "Inkscape", "score": 3},
-      {"name": "Qt", "score": 1}
-    ],
-    "Operating Systems & Shell": [
-      {"name": "Linux (Ubuntu, Debian)", "score": 9},
-      {"name": "bash", "score": 7},
-      {"name": "ssh", "score": 7},
-      {"name": "GCC", "score": 5},
-      {"name": "Putty", "score": 5},
-      {"name": "Unix", "score": 3}
-    ],
-    "Project & Team Collaboration": [
-      {"name": "Jira", "score": 8},
-      {"name": "Slack", "score": 6},
-      {"name": "Confluence", "score": 5},
-      {"name": "Chrome", "score": 5}
-    ],
-    "Markup & Documentation": [
-      {"name": "Lyx", "score": 9},
-      {"name": "LaTeX", "score": 8},
-      {"name": "Markdown", "score": 6}
-    ]
-  }
+  "Programming Languages": [
+    {"name": "Python", "score": 9},
+    {"name": "C#", "score": 5},
+    {"name": "Dart", "score": 5},
+    {"name": "bash", "score": 5},
+    {"name": "C/C++", "score": 4},
+    {"name": "Java", "score": 3},
+    {"name": "JSON", "score": 3},
+    {"name": "JavaScript", "score": 2},
+    {"name": "HTML", "score": 1},
+    {"name": "CSS", "score": 1}
+  ],
+  "Python Ecosystem": [
+    {"name": "NumPy", "score": 8},
+    {"name": "matplotlib", "score": 8},
+    {"name": "PyTorch", "score": 7},
+    {"name": "pip", "score": 7},
+    {"name": "Jupyter Notebook", "score": 7},
+    {"name": "SciPy", "score": 5},
+    {"name": "Conda", "score": 5},
+    {"name": "scikit-learn", "score": 5},
+    {"name": "virtualenv", "score": 5},
+    {"name": "SymPy", "score": 5},
+    {"name": "TensorFlow", "score": 5},
+    {"name": "Pandas", "score": 4},
+    {"name": "typing (type hints)", "score": 4},
+    {"name": "Poetry", "score": 4},
+    {"name": "Plotly", "score": 3},
+    {"name": "seaborn", "score": 3},
+    {"name": "PyTorch Lightning", "score": 3},
+    {"name": "Keras", "score": 3},
+    {"name": "h5py", "score": 2}
+  ],
+  "Machine Learning & AI": [
+    {"name": "CNNs", "score": 9},
+    {"name": "Deep Learning", "score": 7},
+    {"name": "Reinforcement Learning", "score": 7},
+    {"name": "Q-learning", "score": 7},
+    {"name": "Copilot", "score": 6},
+    {"name": "wandb", "score": 5},
+    {"name": "Object Detection (YOLO)", "score": 5},
+    {"name": "Modern Hopfield Networks", "score": 4},
+    {"name": "Comet", "score": 3}
+  ],
+  "Scientific & Engineering Tools": [
+    {"name": "Mathematica", "score": 10},
+    {"name": "Lyx", "score": 8},
+    {"name": "LaTeX", "score": 7},
+    {"name": "LiDAR", "score": 5},
+    {"name": "Matlab", "score": 4},
+    {"name": "ROS", "score": 3},
+    {"name": "LabView", "score": 2}
+  ],
+  "Web Development & Backend": [
+    {"name": "Django", "score": 9},
+    {"name": "MQTT (EMQX)", "score": 8},
+    {"name": "Wagtail", "score": 7},
+    {"name": "REST APIs", "score": 6},
+    {"name": "Celery", "score": 6},
+    {"name": "PostgreSQL", "score": 5},
+    {"name": "SQLite", "score": 5},
+    {"name": "JWT", "score": 5},
+    {"name": "Redis", "score": 4}, 
+    {"name": "Nginx", "score": 2},
+    {"name": "MySQL", "score": 2},
+    {"name": "Jinja", "score": 2}
+  ],
+  "DevOps, CI/CD & Tooling": [
+    {"name": "Git", "score": 9},
+    {"name": "Docker", "score": 8},
+    {"name": "Bitbucket", "score": 6},
+    {"name": "make", "score": 5},
+    {"name": "Bitbucket CI/CD pipeline", "score": 5},
+    {"name": "AWS", "score": 4},
+    {"name": "Kubernetes", "score": 2}
+  ],
+  "Testing & Code Quality": [
+    {"name": "unittest", "score": 8},
+    {"name": "TTD (Test-Driven Development)", "score": 8},
+    {"name": "coverage.py", "score": 6},
+    {"name": "pytest", "score": 4},
+    {"name": "Ruff", "score": 4},
+    {"name": "Black", "score": 2},
+    {"name": "pre-commit", "score": 2}
+  ],
+  "Mobile & Cross-Platform Development": [
+    {"name": "Flutter", "score": 6},
+    {"name": "iOS", "score": 6},
+    {"name": "Android Studio", "score": 5},
+    {"name": "Android", "score": 4},
+    {"name": "Xcode", "score": 3}
+  ],
+  "Visualization, UI & Graphics": [
+    {"name": "OpenCV", "score": 8},
+    {"name": "Unity", "score": 8},
+    {"name": "Computer Vision", "score": 6},
+    {"name": "3D Visualization", "score": 6},
+    {"name": "Blender", "score": 3},
+    {"name": "GIMP", "score": 3},
+    {"name": "Inkscape", "score": 3},
+    {"name": "Qt", "score": 1}
+  ],
+  "Operating Systems & Shell": [
+    {"name": "Linux (Ubuntu, Debian)", "score": 9},
+    {"name": "bash", "score": 7},
+    {"name": "ssh", "score": 7},
+    {"name": "GCC", "score": 5},
+    {"name": "Putty", "score": 5},
+    {"name": "Unix", "score": 3}
+  ],
+  "Project & Team Collaboration": [
+    {"name": "Jira", "score": 8},
+    {"name": "Slack", "score": 6},
+    {"name": "Confluence", "score": 5},
+    {"name": "Chrome", "score": 5}
+  ],
+  "Markup & Documentation": [
+    {"name": "Lyx", "score": 9},
+    {"name": "LaTeX", "score": 8},
+    {"name": "Markdown", "score": 6}
+  ],
+  "Soft Skills & Meta Skills": [
+    {"name": "Scientific Writing", "score": 9},
+    {"name": "Research Skills", "score": 9},
+    {"name": "University Teaching", "score": 8},
+    {"name": "Presentation Skills", "score": 8},
+    {"name": "Mathematical Modeling", "score": 8},
+    {"name": "Data Analysis", "score": 7},
+    {"name": "Teaching", "score": 6}
+  ]    
+}
   

@@ -52,15 +52,7 @@ def render_cv_markdown(data):
 def score_to_bar(score, max_score=10):
     return f"[{'■' * score}{'□' * (max_score - score)}]"
 
-# def render_skills_markdown(data):
-#     lines = ["# Skills Overview\n"]
-#     for category, skills in data.items():
-#         lines.append(f"## {category}")
-#         lines.extend(f"- {score_to_bar(skill['score'])}  {skill['name']}" for skill in skills)
-#         lines.append("")
-#     return "\n".join(lines)
-
-def render_skills_markdown(data, columns=6):
+def render_skills_markdown(data, columns=7):
     lines = ["# Skills Overview\n"]
 
     categories = list(data.items())

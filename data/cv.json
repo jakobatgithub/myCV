@@ -4,26 +4,44 @@
       "period": "since 02/2024",
       "company": "Prosumio GmbH, Berlin",
       "position": "Python Backend Developer",
-      "link": "https://prosumio.de/"
+      "link": "https://prosumio.de/",
+      "details": [
+        "Development of a Python backend for a web application using Django and Wagtail",
+        "Implementation of REST APIs and Celery for asynchronous task management",
+        "Integration of MQTT (EMQX) for real-time data processing"
+      ]
     },
     {
       "period": "01/2024 \u2013 06/2024",
       "company": "Teraki GmbH, Berlin",
       "position": "Senior Data Scientist",
-      "link": "https://www.teraki.com/"
+      "link": "https://www.teraki.com/",
+      "details": [
+        "Object detection in LiDAR and camera data using modern deep learning techniques",
+        "AWS EC2 and S3 for cloud computing and storage",
+        "Spiking neural networks for real-time event camera data analysis"
+      ]
     },
     {
       "period": "06/2023 \u2013 12/2023",
       "company": "BetaRoom UG, Berlin",
       "position": "Augmented Reality Software Developer",
-      "link": "https://www.betaroom.vision/"
+      "link": "https://www.betaroom.vision/",
+      "details": [
+      "Developed the augmented reality application 'KIKI Games'",
+      "Optimized 3D rendering performance for mobile devices",
+      "Porting an AR application from iOS to Oculus Quest 2"
+      ]
     },
     {
-      "period": "05/2020 - 05/2023",
+      "period": "05/2020 \u2013 05/2023",
       "company": "Freelance, Berlin",
       "position": "Freelance Programmer",
       "details": [
-        "Development of augmented reality applications'KIKI Games' and 'Augmented Berlin' in Unity for iOS and Android"
+      "Developed the augmented reality applications 'KIKI Games' and 'Augmented Berlin'",
+      "Cross-platform development in Unity for iOS and Android",
+      "Designed and implemented custom AR solutions for clients",
+      "Collaborated with designers to create interactive AR experiences"
       ]
     },
     {
@@ -77,17 +95,7 @@
     {
       "period": "01/2022 \u2013 04/2022",
       "organization": "Data Science Retreat, Berlin",
-      "activity": "Data Science Bootcamp",
-      "topics": [
-        "NumPy",
-        "Pandas",
-        "SQL",
-        "Docker",
-        "Deep Learning",
-        "NLP",
-        "Transfer Learning",
-        "Reinforcement Learning"
-      ]
+      "activity": "Data Science Bootcamp"
     },
     {
       "period": "12/2018 \u2013 04/2020",
@@ -97,11 +105,7 @@
     {
       "period": "01/2013 \u2013 06/2013",
       "organization": "Argonne National Lab, Chicago",
-      "activity": "Research stay with Igor Aronson",
-      "details": [
-        "Mathematical modeling and numerical solution of a crawling cell model in CUDA",
-        "Publication: 'Collisions of deformable cells lead to collective migration' in Scientific Reports"
-      ]
+      "activity": "Research stay with Igor Aronson"
     },
     {
       "period": "04/2016 \u2013 07/2016",
