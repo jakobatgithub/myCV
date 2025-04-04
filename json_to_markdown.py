@@ -11,7 +11,8 @@ def save_markdown(content, filename):
 # === CV ===
 
 def render_cv_markdown(data):
-    lines = ["# Curriculum Vitae\n"]
+    lines = ["# Curriculum Vitae of Jakob Löber\n"]
+    lines.append("PhD in Theoretical Physics | Data Scientist | Augmented Reality\n")
 
     lines.append("## Professional Background\n")
     for job in data["professional_background"]:
