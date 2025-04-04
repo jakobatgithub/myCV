@@ -1,0 +1,132 @@
+{
+  "professional_background": [
+    {
+      "period": "since 02/2024",
+      "company": "Prosumio GmbH, Berlin",
+      "position": "Python Backend Developer",
+      "link": "https://prosumio.de/"
+    },
+    {
+      "period": "01/2024 \u2013 06/2024",
+      "company": "Teraki GmbH, Berlin",
+      "position": "Senior Data Scientist",
+      "link": "https://www.teraki.com/"
+    },
+    {
+      "period": "06/2023 \u2013 12/2023",
+      "company": "BetaRoom UG, Berlin",
+      "position": "Augmented Reality Software Developer",
+      "link": "https://www.betaroom.vision/"
+    },
+    {
+      "period": "05/2020 - 05/2023",
+      "company": "Freelance, Berlin",
+      "position": "Freelance Programmer",
+      "details": [
+        "Development of augmented reality applications'KIKI Games' and 'Augmented Berlin' in Unity for iOS and Android"
+      ]
+    },
+    {
+      "period": "12/2016 \u2013 11/2018",
+      "company": "Max Planck Institute for the Physics of Complex Systems, Dresden",
+      "position": "Scientific Assistant",
+      "details": [
+        "Postdoc in the department 'Biological Physics'",
+        "13 peer-reviewed scientific publications",
+        "\\>20 presentations at conferences"
+      ]
+    },
+    {
+      "period": "07/2015 \u2013 11/2016",
+      "company": "Technical University Berlin",
+      "position": "Scientific Assistant",
+      "details": [
+        "Postdoc in the research group 'Nonlinear Dynamics and Pattern Formation'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "period": "2011 \u2013 2015",
+      "degree": "PhD",
+      "institution": "Technical University Berlin",
+      "field": "Theoretical Physics",
+      "title": "Optimal Trajectory Tracking",
+      "grade": "summa cum laude"
+    },
+    {
+      "period": "2002 \u2013 2010",
+      "degree": "Diploma",
+      "institution": "Technical University Berlin",
+      "field": "Physics",
+      "grade": "1.0",
+      "focus": [
+        "Statistical physics",
+        "Mathematical physics",
+        "Thermodynamics"
+      ]
+    },
+    {
+      "period": "1993 \u2013 2001",
+      "degree": "High School Diploma",
+      "institution": "von-B\u00fclow Gymnasium Neudietendorf",
+      "grade": "1.8"
+    }
+  ],
+  "other_activities_and_experiences": [
+    {
+      "period": "01/2022 \u2013 04/2022",
+      "organization": "Data Science Retreat, Berlin",
+      "activity": "Data Science Bootcamp",
+      "topics": [
+        "NumPy",
+        "Pandas",
+        "SQL",
+        "Docker",
+        "Deep Learning",
+        "NLP",
+        "Transfer Learning",
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "period": "12/2018 \u2013 04/2020",
+      "organization": "Worldwide",
+      "activity": "Cycling trips through South America and Europe"
+    },
+    {
+      "period": "01/2013 \u2013 06/2013",
+      "organization": "Argonne National Lab, Chicago",
+      "activity": "Research stay with Igor Aronson",
+      "details": [
+        "Mathematical modeling and numerical solution of a crawling cell model in CUDA",
+        "Publication: 'Collisions of deformable cells lead to collective migration' in Scientific Reports"
+      ]
+    },
+    {
+      "period": "04/2016 \u2013 07/2016",
+      "organization": "Institute for Theoretical Physics, TU Berlin",
+      "activity": "Tutor for 'Thermodynamics and Statistical Physics'"
+    },
+    {
+      "period": "10/2015 \u2013 02/2016",
+      "organization": "Institute for Theoretical Physics, TU Berlin",
+      "activity": "Tutor for 'Nonlinear Dynamics and Structure Formation'"
+    },
+    {
+      "period": "02/2012 \u2013 07/2012",
+      "organization": "Institute for Theoretical Physics, TU Berlin",
+      "activity": "Tutor for 'Nonequilibrium Statistical Physics'"
+    },
+    {
+      "period": "10/2007 \u2013 09/2009",
+      "organization": "Institute for Solid State Physics, TU Berlin",
+      "activity": "Tutor for 'Physics for Engineers'"
+    },
+    {
+      "period": "07/2006 \u2013 09/2007",
+      "organization": "Worldwide",
+      "activity": "Backpacking through Asia and Africa"
+    }
+  ]
+}

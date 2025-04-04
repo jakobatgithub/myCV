@@ -1,0 +1,266 @@
+[
+  {
+    "number": 1,
+    "title": "Velocity of Fronts in Heterogeneous Reaction-Diffusion Systems",
+    "event": "Harz seminar, February 2009, Hahnenklee",
+    "link": "http://www.physik.tu-berlin.de/~jakob/Vortrag2.pdf"
+  },
+  {
+    "number": 2,
+    "title": "Chemical Master Equations and Fluctuation Theorem",
+    "event": "Group Seminar, February 2011, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/talk1.pdf"
+  },
+  {
+    "number": 3,
+    "title": "Control of traveling waves and analytical approximations for spiral waves",
+    "event": "GRK Kolloquium, July 2012, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/TalkGRKKolloquium.pdf"
+  },
+  {
+    "number": 4,
+    "title": "Controlling the position of traveling waves",
+    "event": "SFB Symposium, November 2012, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/TalkSFBSymposium.pdf"
+  },
+  {
+    "number": 5,
+    "title": "Stochastic reaction-diffusion systems",
+    "event": "Group Seminar, January 2013, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/StochasticReactionDiffusionSystems.pdf"
+  },
+  {
+    "number": 6,
+    "title": "Analytical approximations for spiral waves",
+    "event": "Harz seminar, February 2013, Hahnenklee",
+    "link": "http://www.physik.tu-berlin.de/~jakob/TalkHartzSeminar_web.pdf"
+  },
+  {
+    "number": 7,
+    "title": "Controlling the position of fronts",
+    "event": "Spring conference of the German Physical Society, March 2013, Regensburg",
+    "link": "http://www.physik.tu-berlin.de/~jakob/TalkDPG.pdf"
+  },
+  {
+    "number": 8,
+    "title": "Controlling the position of traveling fronts",
+    "event": "APS March Meeting, March 2013, Baltimore, USA",
+    "link": "http://www.physik.tu-berlin.de/~jakob/TalkAPS.pdf"
+  },
+  {
+    "number": 9,
+    "title": "Controlling the position of fronts",
+    "event": "IMACS Conference on Nonlinear Waves, March 2013, Athens, Georgia, USA",
+    "link": "http://www.physik.tu-berlin.de/~jakob/TalkWaves2013.pdf"
+  },
+  {
+    "number": 10,
+    "title": "Controlling the position and shape of traveling waves",
+    "event": "BCSCCS conference, June 2013, Warnem\u00fcnde",
+    "link": "http://www.physik.tu-berlin.de/~jakob/TalkBCSCCS.pdf"
+  },
+  {
+    "number": 11,
+    "title": "Controlling the position of traveling waves in reaction-diffusion systems",
+    "event": "DDays Berlin Brandenburg, October 2013, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/TalkDDays.pdf"
+  },
+  {
+    "number": 12,
+    "title": "Modeling crawling cell movement",
+    "event": "GRK Kolloquium, October 2013, Graal-M\u00fcritz",
+    "link": "http://www.physik.tu-berlin.de/~jakob/GRK_Kolloquium_2013_Talk.pdf"
+  },
+  {
+    "number": 13,
+    "title": "Stability of position control of traveling waves",
+    "event": "Group seminar, October 2013, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/TalkControlStability.pdf"
+  },
+  {
+    "number": 14,
+    "title": "Controlling the position of traveling waves in reaction-diffusion systems",
+    "event": "Dynamics Days US 2014, January 2014, Georgia Tech, Atlanta, USA",
+    "link": "http://www.physik.tu-berlin.de/~jakob/TalkDDaysUS2014.pdf"
+  },
+  {
+    "number": 15,
+    "title": "Position and shape control of nonlinear waves",
+    "event": "Harz seminar, February 2014, Hahnenklee",
+    "link": "http://www.physik.tu-berlin.de/~jakob/TalkHarzSeminar2014.pdf"
+  },
+  {
+    "number": 16,
+    "title": "Modeling crawling cell movement",
+    "event": "Group seminar, April 2014, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/CellMotility.pdf"
+  },
+  {
+    "number": 17,
+    "title": "Controlling the position of traveling waves in reaction-diffusion systems",
+    "event": "Nonlinear Dynamics of Deterministic and Stochastic Systems: Unraveling Complexity, May 2014, Saratov, Russia",
+    "link": "http://www.physik.tu-berlin.de/~jakob/TalkSaratov2014.pdf"
+  },
+  {
+    "number": 18,
+    "title": "Modeling crawling cell motility",
+    "event": "BCSCCS Seminar, June 2014, FHI Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/FHICellMotility.pdf"
+  },
+  {
+    "number": 19,
+    "title": "Modeling crawling cell motility",
+    "event": "Seminar, July 2014, HU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/HUCellMotility.pdf"
+  },
+  {
+    "number": 20,
+    "title": "Modeling crawling cell motility",
+    "event": "Mini-Symposium on cell motility, July 2014, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/HUCellMotility.pdf"
+  },
+  {
+    "number": 21,
+    "title": "Controlling the position of traveling waves in reaction-diffusion systems",
+    "event": "SIAM Nonlinear Waves and Coherent Structures, August 2014, Cambridge, UK",
+    "link": "http://www.physik.tu-berlin.de/~jakob/TalkSIAM2014.pdf"
+  },
+  {
+    "number": 22,
+    "title": "Modeling crawling cell motility",
+    "event": "Dynamics Days Europe, September 2014, Bayreuth",
+    "link": "http://www.physik.tu-berlin.de/~jakob/DDaysBayreuthCellMotility_web.pdf"
+  },
+  {
+    "number": 23,
+    "title": "Trajectory controllability, optimal trajectory tracking, exact linearization, and all that",
+    "event": "Group seminar, October 2014, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/NewControlApproach.pdf"
+  },
+  {
+    "number": 24,
+    "title": "Analytical approximations for nonlinear optimal trajectory tracking problems",
+    "event": "SFB Symposium, February 2015, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/SFBSymposium2015.pdf"
+  },
+  {
+    "number": 25,
+    "title": "Modeling crawling cell motility",
+    "event": "Spring conference of the German Physical Society, March 2015, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/DPG2015CellMotility.pdf"
+  },
+  {
+    "number": 26,
+    "title": "Modeling crawling cell motility",
+    "event": "BCSCCS conference, June 2015, Munich",
+    "link": "http://www.physik.tu-berlin.de/~jakob/BCSCCS2015CellMotility.pdf"
+  },
+  {
+    "number": 27,
+    "title": "Optimal trajectory tracking",
+    "event": "Ph.D. thesis defence, July 2015, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/DefenceThesis.pdf"
+  },
+  {
+    "number": 28,
+    "title": "Modeling crawling cell motility",
+    "event": "NECD15 conference, October 2015, Potsdam",
+    "link": "http://www.physik.tu-berlin.de/~jakob/NECD15CellMotility.pdf"
+  },
+  {
+    "number": 29,
+    "title": "Free boundary problems and phase field methods",
+    "event": "Group seminar, November 2015, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/FreeBoundaryPhaseField.pdf"
+  },
+  {
+    "number": 30,
+    "title": "Modeling crawling cell motility",
+    "event": "Harz seminar, February 2016, Hahnenklee",
+    "link": "http://www.physik.tu-berlin.de/~jakob/HarzSeminar16.pdf"
+  },
+  {
+    "number": 31,
+    "title": "Thermodynamics of mechanochemical reactions",
+    "event": "Group seminar, June 2016, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/ThermodynamicsActiveSystems.pdf"
+  },
+  {
+    "number": 32,
+    "title": "Poroelastic two-phase model for Physarum polycephalum with free boundaries",
+    "event": "Group seminar, November 2016, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/Physarum.pdf"
+  },
+  {
+    "number": 33,
+    "title": "Poroelastic two-phase model for Physarum polycephalum with free boundaries",
+    "event": "MPIPKS Biophysics Group Retreat, January 2017, Oberwiesenthal",
+    "link": "http://www.physik.tu-berlin.de/~jakob/Physarum_Retreat.pdf"
+  },
+  {
+    "number": 34,
+    "title": "Phase separation via Density Functional Theory",
+    "event": "Droplet Meeting, March 2017, Dresden",
+    "link": "http://www.physik.tu-berlin.de/~jakob/PhaseSeparation.pdf"
+  },
+  {
+    "number": 35,
+    "title": "Cross-linked Gels",
+    "event": "Droplet Meeting, July 2017, Dresden",
+    "link": "http://www.physik.tu-berlin.de/~jakob/CrossLinkedGels.pdf"
+  },
+  {
+    "number": 36,
+    "title": "Cross-linked Gels",
+    "event": "Cortex Day, August 2017, Lichtenhain",
+    "link": "http://www.physik.tu-berlin.de/~jakob/CrossLinkedGelsCD.pdf"
+  },
+  {
+    "number": 37,
+    "title": "Rheology of cross-linked polymer networks",
+    "event": "Group seminar, September 2017, Dresden",
+    "link": "http://www.physik.tu-berlin.de/~jakob/CrossLinkedPolymerNetworks.pdf"
+  },
+  {
+    "number": 38,
+    "title": "Thermorheology of polymer gels",
+    "event": "Internal seminar, October 2017, Dresden",
+    "link": "http://www.physik.tu-berlin.de/~jakob/ThermorheologyOfPolymerGels.pdf"
+  },
+  {
+    "number": 39,
+    "title": "Rheology of polymer networks: chain length distribution",
+    "event": "Droplet Meeting, October 2017, Dresden",
+    "link": "http://www.physik.tu-berlin.de/~jakob/CrossLinkedPolymerNetworksDM.pdf"
+  },
+  {
+    "number": 40,
+    "title": "Thermomechanical Manipulation of Gels",
+    "event": "Droplet Meeting, December 2017, Dresden",
+    "link": "http://www.physik.tu-berlin.de/~jakob/ThermomechanicalManipulationOfGels.pdf"
+  },
+  {
+    "number": 41,
+    "title": "Polymer gels and the two-fluid model",
+    "event": "Group seminar, January 2018, Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/PolymerGelsAndTheTwoFluidModel.pdf"
+  },
+  {
+    "number": 42,
+    "title": "Phase separation in polyelectrolytes",
+    "event": "MPIPKS Biophysics Group Retreat, January 2018, Oberwiesenthal",
+    "link": "http://www.physik.tu-berlin.de/~jakob/PhaseSeparationInPolyelectrolytes.pdf"
+  },
+  {
+    "number": 43,
+    "title": "Transport through and chemical reactions at membranes",
+    "event": "Droplet Meeting, February 2018, Dresden",
+    "link": "http://www.physik.tu-berlin.de/~jakob/TransportThroughAndChemicalReactionsAtMembranes.pdf"
+  },
+  {
+    "number": 44,
+    "title": "Two-fluid model for crawling cell motility",
+    "event": "Harz seminar, February 2018, Hahnenklee",
+    "link": "http://www.physik.tu-berlin.de/~jakob/Physarum_Harz2018.pdf"
+  }
+]

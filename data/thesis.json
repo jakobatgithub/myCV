@@ -1,0 +1,41 @@
+{
+  "doctoral_thesis": {
+    "title": "Optimal trajectory tracking",
+    "pdf_link": "http://www.physik.tu-berlin.de/~jakob/thesis_PhD.pdf",
+    "supervisors": [
+      {
+        "name": "Prof. Harald Engel",
+        "link": "http://www.itp.tu-berlin.de/engel/ag_engel"
+      },
+      {
+        "name": "Prof. Alexander S. Mikhailov",
+        "link": "http://www.fhi-berlin.mpg.de/complsys/mik/"
+      },
+      {
+        "name": "Prof. Fredi Tr\u00f6ltzsch",
+        "link": "https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_optimierung_bei_partiellen_differentialgleichungen/v-menue/mitarbeiter/prof_dr_fredi_troeltzsch/home/"
+      }
+    ],
+    "date_of_defence": "July 2015",
+    "defence_talk": {
+      "title": "Optimal trajectory tracking",
+      "pdf_link": "http://www.physik.tu-berlin.de/~jakob/DefenceThesis.pdf"
+    },
+    "abstract": "This thesis investigates optimal trajectory tracking of nonlinear dynamical systems with affine controls. The control task is to enforce the system state to follow a prescribed desired trajectory as closely as possible. The concept of so-called exactly realizable trajectories is proposed. For exactly realizable desired trajectories exists a control signal which enforces the state to exactly follow the desired trajectory. For a given affine control system, these trajectories are characterized by the so-called constraint equation. This approach does not only yield an explicit expression for the control signal in terms of the desired trajectory, but also identifies a particularly simple class of nonlinear control systems. Systems in this class satisfy the so-called linearizing assumption and share many properties with linear control systems. For example, conditions for controllability can be formulated in terms of a rank condition for a controllability matrix analogously to the Kalman rank condition for linear time invariant systems. Furthermore, exactly realizable trajectories, together with the corresponding control signal, arise as solutions to unregularized optimal control problems. Based on that insight, the regularization parameter is used as the small parameter for a perturbation expansion. This results in a reinterpretation of affine optimal control problems with small regularization term as singularly perturbed differential equations. The small parameter originates from the formulation of the control problem and does not involve simplifying assumptions about the system dynamics. Combining this approach with the linearizing assumption, approximate and partly linear equations for the optimal trajectory tracking of arbitrary desired trajectories are derived. For vanishing regularization parameter, the state trajectory becomes discontinuous and the control signal diverges. On the other hand, the analytical treatment becomes exact and the solutions are exclusively governed by linear differential equations. Thus, the possibility of linear structures underlying nonlinear optimal control is revealed. This fact enables the derivation of exact analytical solutions to an entire class of nonlinear trajectory tracking problems with affine controls. This class comprises, among others, mechanical control systems in one spatial dimension and the FitzHugh-Nagumo model with a control acting on the activator."
+  },
+  "diploma_thesis": {
+    "title": "Nonlinear Excitation Waves in Spatially Heterogeneous Reaction-Diffusion Systems",
+    "pdf_link": "http://www.physik.tu-berlin.de/~jakob/thesis.pdf",
+    "supervisors": [
+      {
+        "name": "Prof. Harald Engel",
+        "link": "http://www.itp.tu-berlin.de/engel/ag_engel"
+      },
+      {
+        "name": "Prof. Markus B\u00e4r",
+        "link": "http://www.ptb.de/cms/en/fachabteilungen/abt8/fb-84.html"
+      }
+    ],
+    "abstract": "Wave propagation in one-dimensional heterogeneous bistable media is studied for the Schl\u00f6gl model. Starting from the analytically known traveling wave solution for the homogeneous medium, non-localized, spatially periodic variations in kinetic parameters as the excitation threshold, for example, are taken into account perturbatively. Two different multiple scale perturbation methods are applied to derive a differential equation for the position of the front under perturbations. All analytical results are compared to the results of numerical simulations."
+  }
+}

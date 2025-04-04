@@ -1,0 +1,68 @@
+[
+  {
+    "number": 1,
+    "title": "Velocity of Fronts in Periodic-Heterogeneous Reaction Diffusion Systems",
+    "event": "spring conference of the German Physical Society, March 2009, Dresden",
+    "link": "http://www.physik.tu-berlin.de/~jakob/poster.pdf"
+  },
+  {
+    "number": 2,
+    "title": "Kinematic Theory of Spiral Waves",
+    "event": "BCSCCS conference, June 2011, Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/posterBCSCCS.pdf"
+  },
+  {
+    "number": 3,
+    "title": "Controlling the position of a front",
+    "event": "GRK conference, October 2012, Potsdam",
+    "link": "http://www.physik.tu-berlin.de/~jakob/postercontrol.pdf"
+  },
+  {
+    "number": 4,
+    "title": "Analytical approximations for spiral waves",
+    "event": "GRK conference, October 2012, Potsdam",
+    "link": "http://www.physik.tu-berlin.de/~jakob/posterspiral.pdf"
+  },
+  {
+    "number": 5,
+    "title": "Curvature-dependent feedback control of two-dimensional excitation waves",
+    "event": "DPG conference, March 2013, Regensburg",
+    "link": "http://www.physik.tu-berlin.de/~jakob/poster_sonja7.pdf"
+  },
+  {
+    "number": 6,
+    "title": "Analytical approximations for spiral waves",
+    "event": "GRK defence, June 2013, TU Berlin",
+    "link": "http://www.physik.tu-berlin.de/~jakob/Poster_Template_C.pdf"
+  },
+  {
+    "number": 7,
+    "title": "Controlling the position of a front",
+    "event": "Dynamics Days Europe, September 2014, Bayreuth",
+    "link": "http://www.physik.tu-berlin.de/~jakob/postercontrol.pdf"
+  },
+  {
+    "number": 8,
+    "title": "Front propagation in three-dimensional corrugated reaction-diffusion media",
+    "event": "Dynamics Days Europe, September 2014, Bayreuth",
+    "link": null
+  },
+  {
+    "number": 9,
+    "title": "Modeling cell movement on heterogeneous substrates",
+    "event": "Model systems for understanding biological processes, February 2015, Bad Honnef",
+    "link": "http://www.physik.tu-berlin.de/~jakob/PosterDirkBadHonnef.pdf"
+  },
+  {
+    "number": 10,
+    "title": "Linear structures in nonlinear optimal control",
+    "event": "Control of Complex Systems and Networks, September 2016, Heringsdorf",
+    "link": "http://www.physik.tu-berlin.de/~jakob/LinearStructuresInNonlinearControlPosterHeringsdorf.pdf"
+  },
+  {
+    "number": 11,
+    "title": "Position Control of Traveling Spots",
+    "event": "Control of Complex Systems and Networks, September 2016, Heringsdorf",
+    "link": "http://www.physik.tu-berlin.de/~jakob/poster_Heringsdorf2016_A0.pdf"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "authors": "S. Alonso, J. Löber, M. Bär, H. Engel",
+    "title": "Wave propagation in heterogeneous bistable and excitable media",
+    "journal": "Eur. Phys. J. Spec. Top. 187, 31 (2010)",
+    "url": "http://link.springer.com/article/10.1140/epjst/e2010-01268-1"
+  },
+  {
+    "id": 2,
+    "authors": "F.J. Schmitt, H. Südmeyer, J. Börner, J. Löber, K. Olliges, K. Reineke, I. Kahlen, P. Hätti, H.J. Eichler, H.J. Cappius",
+    "title": "Handheld device for fast and non-contact optical measurement of protein films on surfaces",
+    "journal": "Opt. Laser. Eng. 49, 1294 (2011)",
+    "url": "http://www.sciencedirect.com/science/article/pii/S0143816611001722"
+  },
+  {
+    "id": 3,
+    "authors": "J. Löber, M. Bär, H. Engel",
+    "title": "Front propagation in one-dimensional spatially periodic bistable media",
+    "journal": "Phys. Rev. E 86, 066210 (2012)",
+    "url": "http://pre.aps.org/abstract/PRE/v86/i6/e066210"
+  },
+  {
+    "id": 4,
+    "authors": "J. Löber, H. Engel",
+    "title": "Analytical approximations for spiral waves",
+    "journal": "Chaos 23, 043135 (2013)",
+    "url": "http://scitation.aip.org/content/aip/journal/chaos/23/4/10.1063/1.4848576"
+  },
+  {
+    "id": 5,
+    "authors": "P.V. Paulau, J. Löber, H. Engel",
+    "title": "Stabilization of a scroll ring by a cylindrical Neumann boundary",
+    "journal": "Phys. Rev. E 88, 062917 (2013)",
+    "url": "http://pre.aps.org/abstract/PRE/v88/i6/e062917"
+  },
+  {
+    "id": 6,
+    "authors": "J. Löber, F. Ziebert, I.S. Aranson",
+    "title": "Modeling crawling cell movement on soft engineered substrates",
+    "journal": "Soft Matter 10, 1365 (2014)",
+    "url": "http://pubs.rsc.org/en/content/articlelanding/2013/sm/c3sm51597d"
+  },
+  {
+    "id": 7,
+    "authors": "J. Löber, H. Engel",
+    "title": "Controlling the position of traveling waves in reaction-diffusion systems",
+    "journal": "Phys. Rev. Lett. 112, 148305 (2014)",
+    "url": "http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.148305"
+  },
+  {
+    "id": 8,
+    "authors": "J. Löber",
+    "title": "Stability of position control of traveling waves in reaction-diffusion systems",
+    "journal": "Phys. Rev. E 89, 062904 (2014)",
+    "url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.89.062904"
+  },
+  {
+    "id": 9,
+    "authors": "J. Löber, R. Coles, J. Siebert, H. Engel, E. Schöll",
+    "title": "Control of chemical wave propagation",
+    "journal": "Engineering of Chemical Complexity II, pp. 185-207, World Scientific (2014)",
+    "url": "http://www.worldscientific.com/doi/abs/10.1142/9789814616133_0011"
+  },
+  {
+    "id": 10,
+    "authors": "I.S. Aranson, J. Löber, F. Ziebert",
+    "title": "Phase-field description of substrate-based motility of eukaryotic cells",
+    "journal": "Engineering of Chemical Complexity II, pp. 93-104, World Scientific (2014)",
+    "url": "http://www.worldscientific.com/doi/abs/10.1142/9789814616133_0006"
+  },
+  {
+    "id": 11,
+    "authors": "J. Löber, S. Martens, H. Engel",
+    "title": "Shaping wave patterns in reaction-diffusion systems",
+    "journal": "Phys. Rev. E 90, 062911 (2014)",
+    "url": "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.062911"
+  },
+  {
+    "id": 12,
+    "authors": "S. Martens, J. Löber, H. Engel",
+    "title": "Front propagation in channels with spatially modulated cross section",
+    "journal": "Phys. Rev. E 91, 022902 (2015)",
+    "url": "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.91.022902"
+  },
+  {
+    "id": 13,
+    "authors": "J. Löber, F. Ziebert, I.S. Aranson",
+    "title": "Collisions of deformable cells lead to collective migration",
+    "journal": "Sci. Rep. 5, 9172 (2015)",
+    "url": "http://www.nature.com/srep/2015/150317/srep09172/full/srep09172.html"
+  },
+  {
+    "id": 14,
+    "authors": "J. Löber",
+    "title": "Optimal trajectory tracking",
+    "journal": "Ph.D. thesis, Technical University Berlin (2015)",
+    "url": "http://www.physik.tu-berlin.de/~jakob/thesis_PhD.pdf"
+  },
+  {
+    "id": 15,
+    "authors": "C. Ryll, J. Löber, S. Martens, H. Engel, F. Tröltzsch",
+    "title": "Analytical, Optimal, and Sparse Optimal Control of Traveling Wave Solutions to Reaction-Diffusion Systems",
+    "journal": "Control of Self-Organizing Nonlinear Systems, pp. 189-210, Springer (2016)",
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-28028-8_10"
+  },
+  {
+    "id": 16,
+    "authors": "F. Ziebert, J. Löber, I.S. Aranson",
+    "title": "Macroscopic model of substrate-based cell motility",
+    "journal": "Physical Models of Cell Motility, pp. 1-67, Springer (2016)",
+    "url": "http://link.springer.com/chapter/10.1007%2F978-3-319-24448-8_1"
+  },
+  {
+    "id": 17,
+    "authors": "J. Löber",
+    "title": "Optimal Trajectory Tracking of Nonlinear Dynamical Systems",
+    "journal": "Springer, ISBN 978-3-319-46573-9 (2017)",
+    "url": "http://link.springer.com/book/10.1007%2F978-3-319-46574-6"
+  },
+  {
+    "id": 18,
+    "authors": "J. Löber",
+    "title": "Exactly realizable desired trajectories",
+    "journal": "arXiv:1603.00611 (2016)",
+    "url": "http://arxiv.org/abs/1603.00611"
+  },
+  {
+    "id": 19,
+    "authors": "S. Molnos, J. Löber, J.F. Totz, H. Engel",
+    "title": "Control of transversal instabilities in reaction-diffusion systems",
+    "journal": "New J. Phys. 20, 053034 (2018)",
+    "url": "http://arxiv.org/abs/1501.03769"
+  },
+  {
+    "id": 20,
+    "authors": "J. Löber",
+    "title": "Linear structures in nonlinear optimal control",
+    "journal": "arXiv:1604.01261 (2016)",
+    "url": "http://arxiv.org/abs/1604.01261"
+  },
+  {
+    "id": 21,
+    "authors": "D.A. Kulawiak, J. Löber, M. Bär, H. Engel",
+    "title": "Oscillatory Motion in an Active Poroelastic Two-Phase Model",
+    "journal": "PLOS ONE 14, e0217447 (2019)",
+    "url": "http://arxiv.org/abs/1803.00337"
+  }
+]
