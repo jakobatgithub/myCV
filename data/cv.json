@@ -3,12 +3,13 @@
     {
       "period": "since 02/2024",
       "company": "Prosumio GmbH, Berlin",
-      "position": "Python Backend Developer",
+      "position": "Fullstack Developer",
       "link": "https://prosumio.de/",
       "details": [
         "Development of a Python backend for a web application using Django and Wagtail",
         "Implementation of REST APIs and Celery for asynchronous task management",
-        "Integration of MQTT (EMQX) for real-time data processing"
+        "Integration of MQTT (EMQX) for real-time data processing",
+        "Flutter for mobile app development on iOS and Android"
       ]
     },
     {

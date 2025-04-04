@@ -5,10 +5,11 @@ PhD in Theoretical Physics | Data Science | Web Development | Augmented Reality
 ## Professional Background
 
 **since 02/2024**  
-Python Backend Developer — *[Prosumio GmbH, Berlin](https://prosumio.de/)*
+Fullstack Developer — *[Prosumio GmbH, Berlin](https://prosumio.de/)*
 - Development of a Python backend for a web application using Django and Wagtail
 - Implementation of REST APIs and Celery for asynchronous task management
 - Integration of MQTT (EMQX) for real-time data processing
+- Flutter for mobile app development on iOS and Android
 
 **01/2024 – 06/2024**  
 Senior Data Scientist — *[Teraki GmbH, Berlin](https://www.teraki.com/)*
@@ -155,7 +156,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Conda</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Object Detection (YOLO)</td>
 <td style='padding-right: 20px;'>[■■□□□□□□□□]<br>LabView</td>
-<td style='padding-right: 20px;'>[■■■■■□□□□□]<br>SQLite</td>
+<td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Firebase</td>
 <td style='padding-right: 20px;'>[■■□□□□□□□□]<br>Kubernetes</td>
 <td style='padding-right: 20px;'>[■■□□□□□□□□]<br>pre-commit</td>
 </tr>
@@ -164,7 +165,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>scikit-learn</td>
 <td style='padding-right: 20px;'>[■■■■□□□□□□]<br>Modern Hopfield Networks</td>
 <td></td>
-<td style='padding-right: 20px;'>[■■■■■□□□□□]<br>JWT</td>
+<td style='padding-right: 20px;'>[■■■■■□□□□□]<br>SQLite</td>
 <td></td>
 <td></td>
 </tr>
@@ -173,7 +174,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>virtualenv</td>
 <td style='padding-right: 20px;'>[■■■□□□□□□□]<br>Comet</td>
 <td></td>
-<td style='padding-right: 20px;'>[■■■■□□□□□□]<br>Redis</td>
+<td style='padding-right: 20px;'>[■■■■■□□□□□]<br>JWT</td>
 <td></td>
 <td></td>
 </tr>
@@ -182,7 +183,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>SymPy</td>
 <td></td>
 <td></td>
-<td style='padding-right: 20px;'>[■■□□□□□□□□]<br>Nginx</td>
+<td style='padding-right: 20px;'>[■■■■□□□□□□]<br>Redis</td>
 <td></td>
 <td></td>
 </tr>
@@ -191,7 +192,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>TensorFlow</td>
 <td></td>
 <td></td>
-<td style='padding-right: 20px;'>[■■□□□□□□□□]<br>MySQL</td>
+<td style='padding-right: 20px;'>[■■□□□□□□□□]<br>Nginx</td>
 <td></td>
 <td></td>
 </tr>
@@ -200,7 +201,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■□□□□□□]<br>Pandas</td>
 <td></td>
 <td></td>
-<td style='padding-right: 20px;'>[■■□□□□□□□□]<br>Jinja</td>
+<td style='padding-right: 20px;'>[■■□□□□□□□□]<br>MySQL</td>
 <td></td>
 <td></td>
 </tr>
@@ -209,7 +210,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■□□□□□□]<br>typing (type hints)</td>
 <td></td>
 <td></td>
-<td></td>
+<td style='padding-right: 20px;'>[■■□□□□□□□□]<br>Jinja</td>
 <td></td>
 <td></td>
 </tr>

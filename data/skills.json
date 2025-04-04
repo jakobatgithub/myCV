@@ -59,6 +59,7 @@
     {"name": "REST APIs", "score": 6},
     {"name": "Celery", "score": 6},
     {"name": "PostgreSQL", "score": 5},
+    {"name": "Firebase", "score": 5},
     {"name": "SQLite", "score": 5},
     {"name": "JWT", "score": 5},
     {"name": "Redis", "score": 4}, 
