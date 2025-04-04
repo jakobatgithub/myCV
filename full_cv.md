@@ -1,6 +1,6 @@
 # Curriculum Vitae of Jakob Löber
 
-PhD in Theoretical Physics | Data Scientist | Augmented Reality
+PhD in Theoretical Physics | Data Science | Web Development | Augmented Reality
 
 ## Professional Background
 
