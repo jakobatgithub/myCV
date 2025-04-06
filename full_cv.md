@@ -125,63 +125,63 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■■■■■□□□□]<br>coverage.py</td>
 </tr>
 <tr>
-<td style='padding-right: 20px;'>[■■■■■□□□□□]<br>bash</td>
+<td style='padding-right: 20px;'>[■■■■□□□□□□]<br>C/C++</td>
 <td style='padding-right: 20px;'>[■■■■■■■□□□]<br>pip</td>
-<td style='padding-right: 20px;'>[■■■■■■■□□□]<br>Q-learning</td>
+<td style='padding-right: 20px;'>[■■■■■■□□□□]<br>Numerical optimization</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>LiDAR</td>
 <td style='padding-right: 20px;'>[■■■■■■□□□□]<br>REST APIs</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>make</td>
 <td style='padding-right: 20px;'>[■■■■□□□□□□]<br>pytest</td>
 </tr>
 <tr>
-<td style='padding-right: 20px;'>[■■■■□□□□□□]<br>C/C++</td>
+<td style='padding-right: 20px;'>[■■■□□□□□□□]<br>Java</td>
 <td style='padding-right: 20px;'>[■■■■■■■□□□]<br>Jupyter Notebook</td>
-<td style='padding-right: 20px;'>[■■■■■■□□□□]<br>Copilot</td>
+<td style='padding-right: 20px;'>[■■■■■■□□□□]<br>Q-learning</td>
 <td style='padding-right: 20px;'>[■■■■□□□□□□]<br>Matlab</td>
 <td style='padding-right: 20px;'>[■■■■■■□□□□]<br>Celery</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Bitbucket CI/CD pipeline</td>
 <td style='padding-right: 20px;'>[■■■■□□□□□□]<br>Ruff</td>
 </tr>
 <tr>
-<td style='padding-right: 20px;'>[■■■□□□□□□□]<br>Java</td>
+<td style='padding-right: 20px;'>[■■■□□□□□□□]<br>JSON</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>SciPy</td>
-<td style='padding-right: 20px;'>[■■■■■□□□□□]<br>wandb</td>
+<td style='padding-right: 20px;'>[■■■■■■□□□□]<br>Copilot</td>
 <td style='padding-right: 20px;'>[■■■□□□□□□□]<br>ROS</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>PostgreSQL</td>
 <td style='padding-right: 20px;'>[■■■■□□□□□□]<br>AWS</td>
 <td style='padding-right: 20px;'>[■■□□□□□□□□]<br>Black</td>
 </tr>
 <tr>
-<td style='padding-right: 20px;'>[■■■□□□□□□□]<br>JSON</td>
+<td style='padding-right: 20px;'>[■■□□□□□□□□]<br>JavaScript</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Conda</td>
-<td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Object Detection (YOLO)</td>
+<td style='padding-right: 20px;'>[■■■■■□□□□□]<br>wandb</td>
 <td style='padding-right: 20px;'>[■■□□□□□□□□]<br>LabView</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Firebase</td>
 <td style='padding-right: 20px;'>[■■□□□□□□□□]<br>Kubernetes</td>
 <td style='padding-right: 20px;'>[■■□□□□□□□□]<br>pre-commit</td>
 </tr>
 <tr>
-<td style='padding-right: 20px;'>[■■□□□□□□□□]<br>JavaScript</td>
+<td style='padding-right: 20px;'>[■□□□□□□□□□]<br>HTML</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>scikit-learn</td>
-<td style='padding-right: 20px;'>[■■■■□□□□□□]<br>Modern Hopfield Networks</td>
+<td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Object Detection (YOLO)</td>
 <td></td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>SQLite</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td style='padding-right: 20px;'>[■□□□□□□□□□]<br>HTML</td>
+<td style='padding-right: 20px;'>[■□□□□□□□□□]<br>CSS</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>virtualenv</td>
-<td style='padding-right: 20px;'>[■■■□□□□□□□]<br>Comet</td>
+<td style='padding-right: 20px;'>[■■■■□□□□□□]<br>Modern Hopfield Networks</td>
 <td></td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>JWT</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td style='padding-right: 20px;'>[■□□□□□□□□□]<br>CSS</td>
-<td style='padding-right: 20px;'>[■■■■■□□□□□]<br>SymPy</td>
 <td></td>
+<td style='padding-right: 20px;'>[■■■■■□□□□□]<br>SymPy</td>
+<td style='padding-right: 20px;'>[■■■□□□□□□□]<br>Comet</td>
 <td></td>
 <td style='padding-right: 20px;'>[■■■■□□□□□□]<br>Redis</td>
 <td></td>
