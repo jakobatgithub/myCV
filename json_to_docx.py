@@ -134,7 +134,7 @@ for act in cv_data["other_activities_and_experiences"]:
     for detail in act.get("details", []):
         doc.add_paragraph(detail, style='List Bullet')
 
-doc.add_page_break()
+# doc.add_page_break()
 
 # === Skills ===
 styled_heading("Skills Overview", level=1)
@@ -183,6 +183,8 @@ doc.add_paragraph(f"Date of Defence: {dt['date_of_defence']}")
 create_hyperlink(doc.add_paragraph("Defence Talk: "), dt["defence_talk"]["title"], dt["defence_talk"]["pdf_link"])
 doc.add_paragraph("Abstract: " + dt["abstract"])
 
+doc.add_page_break()
+
 dip = thesis_data["diploma_thesis"]
 styled_heading("Diploma Thesis", level=2)
 create_hyperlink(doc.add_paragraph("Title: "), dip["title"], dip["pdf_link"])
@@ -205,4 +207,5 @@ for p in posters_data:
 
 # === Save DOCX ===
 doc.save("full_cv.docx")
+doc.save("CV_Jakob_Englisch.docx")
 print("✅ full_cv.docx created.")
