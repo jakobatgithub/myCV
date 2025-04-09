@@ -82,8 +82,7 @@
     {"name": "coverage.py", "score": 6},
     {"name": "pytest", "score": 4},
     {"name": "Ruff", "score": 4},
-    {"name": "Black", "score": 2},
-    {"name": "pre-commit", "score": 2}
+    {"name": "Black", "score": 2}
   ],
   "Mobile & Cross-Platform Development": [
     {"name": "Flutter", "score": 6},

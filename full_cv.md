@@ -158,7 +158,7 @@ Backpacking through Asia and Africa — *Worldwide*
 <td style='padding-right: 20px;'>[■■□□□□□□□□]<br>LabView</td>
 <td style='padding-right: 20px;'>[■■■■■□□□□□]<br>Firebase</td>
 <td style='padding-right: 20px;'>[■■□□□□□□□□]<br>Kubernetes</td>
-<td style='padding-right: 20px;'>[■■□□□□□□□□]<br>pre-commit</td>
+<td></td>
 </tr>
 <tr>
 <td style='padding-right: 20px;'>[■□□□□□□□□□]<br>HTML</td>
