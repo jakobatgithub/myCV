@@ -138,13 +138,28 @@ doc.add_page_break()
 
 # === Skills ===
 styled_heading("Skills Overview", level=1)
+
 for category, skills in skills_data.items():
     doc.add_paragraph(category, style="Heading2Style")
-    table = doc.add_table(rows=0, cols=2)
-    for skill in skills:
+
+    table = doc.add_table(rows=0, cols=4)
+
+    # Iterate through skills in pairs of two
+    for i in range(0, len(skills), 2):
         row = table.add_row().cells
-        row[0].text = skill["name"]
-        row[1].text = score_to_bar(skill["score"])
+        skill1 = skills[i]
+        row[0].text = skill1["name"]
+        row[1].text = score_to_bar(skill1["score"])
+
+        if i + 1 < len(skills):
+            skill2 = skills[i + 1]
+            row[2].text = skill2["name"]
+            row[3].text = score_to_bar(skill2["score"])
+        else:
+            # Leave the second pair empty if odd number of skills
+            row[2].text = ""
+            row[3].text = ""
+
     doc.add_paragraph()
 
 # === Publications ===
