@@ -184,8 +184,6 @@ for i, pub in enumerate(publications_data, 1):
     p = doc.add_paragraph(f"{i}. {authors}, {title}, {journal}.")
     create_hyperlink(p, "", pub["url"])
 
-doc.add_page_break()
-
 # === Theses ===
 styled_heading(" 📘 Academic Theses", level=1)
 dt = thesis_data["doctoral_thesis"]
@@ -195,8 +193,6 @@ doc.add_paragraph("Supervisors: " + ", ".join(s["name"] for s in dt["supervisors
 doc.add_paragraph(f"Date of Defence: {dt['date_of_defence']}")
 create_hyperlink(doc.add_paragraph("Defence Talk: "), dt["defence_talk"]["title"], dt["defence_talk"]["pdf_link"])
 doc.add_paragraph("Abstract: " + dt["abstract"])
-
-doc.add_page_break()
 
 dip = thesis_data["diploma_thesis"]
 styled_heading("📕 Diploma Thesis", level=2)
