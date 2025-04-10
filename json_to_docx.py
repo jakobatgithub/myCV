@@ -87,8 +87,21 @@ def styled_heading(text, level=1):
 doc.add_paragraph("Jakob Löber — Curriculum Vitae", style="TitleStyle")
 doc.add_paragraph("PhD in Theoretical Physics | Data Science | Web Development | Augmented Reality", style="Heading3Style")
 
+# === Contact Information ===
+info = cv_data.get("information", {})
+if info:
+    contact_paragraph = doc.add_paragraph()
+    contact_paragraph.add_run(f"{info['address']}\n")
+    contact_paragraph.add_run(f"📞 {info['phone']}\n")
+    contact_paragraph.add_run(f"✉️ {info['email']}\n")
+    contact_paragraph.add_run(f"🗓️ Born: {info['date_of_birth']} in {info['place_of_birth']}\n")
+    contact_paragraph.add_run(f"💼 Status: {info['marital_status']}, Children: {'No' if not info['children'] else 'Yes'}\n")
+    contact_paragraph.add_run(f"🎓 {info['profession']}\n")
+    contact_paragraph.add_run("🌐 GitHub: ")
+    create_hyperlink(contact_paragraph, info['github'], info['github'])
+
 # === Professional Background ===
-styled_heading("Professional Background", level=1)
+styled_heading(" 💼 Professional Background", level=1)
 for job in cv_data["professional_background"]:
     p1 = doc.add_paragraph(job["period"])
     format_paragraph(p1, bold=True, keep_with_next=True)
@@ -104,7 +117,7 @@ for job in cv_data["professional_background"]:
         doc.add_paragraph(detail, style='List Bullet')
 
 # === Education ===
-styled_heading("Education", level=1)
+styled_heading(" 🎓 Education", level=1)
 for edu in cv_data["education"]:
     p1 = doc.add_paragraph(edu["period"])
     format_paragraph(p1, bold=True, keep_with_next=True)
@@ -121,7 +134,7 @@ for edu in cv_data["education"]:
         doc.add_paragraph(f"Title: {edu['title']}")
 
 # === Other Activities ===
-styled_heading("Other Activities and Experiences", level=1)
+styled_heading(" 🌟 Other Activities and Experiences", level=1)
 for act in cv_data["other_activities_and_experiences"]:
     p1 = doc.add_paragraph(act["period"])
     format_paragraph(p1, bold=True, keep_with_next=True)
@@ -137,7 +150,7 @@ for act in cv_data["other_activities_and_experiences"]:
 # doc.add_page_break()
 
 # === Skills ===
-styled_heading("Skills Overview", level=1)
+styled_heading(" 🧰 Skills Overview", level=1)
 
 for category, skills in skills_data.items():
     doc.add_paragraph(category, style="Heading2Style")
@@ -163,7 +176,7 @@ for category, skills in skills_data.items():
     doc.add_paragraph()
 
 # === Publications ===
-styled_heading(f"Publications ({len(publications_data)})", level=1)
+styled_heading(f" 📚 Publications ({len(publications_data)})", level=1)
 for i, pub in enumerate(publications_data, 1):
     authors = pub["authors"]
     title = f"“{pub['title']}”"
@@ -174,9 +187,9 @@ for i, pub in enumerate(publications_data, 1):
 doc.add_page_break()
 
 # === Theses ===
-styled_heading("Academic Theses", level=1)
+styled_heading(" 📘 Academic Theses", level=1)
 dt = thesis_data["doctoral_thesis"]
-styled_heading("Doctoral Thesis", level=2)
+styled_heading("📗 Doctoral Thesis", level=2)
 create_hyperlink(doc.add_paragraph("Title: "), dt["title"], dt["pdf_link"])
 doc.add_paragraph("Supervisors: " + ", ".join(s["name"] for s in dt["supervisors"]))
 doc.add_paragraph(f"Date of Defence: {dt['date_of_defence']}")
@@ -186,20 +199,20 @@ doc.add_paragraph("Abstract: " + dt["abstract"])
 doc.add_page_break()
 
 dip = thesis_data["diploma_thesis"]
-styled_heading("Diploma Thesis", level=2)
+styled_heading("📕 Diploma Thesis", level=2)
 create_hyperlink(doc.add_paragraph("Title: "), dip["title"], dip["pdf_link"])
 doc.add_paragraph("Supervisors: " + ", ".join(s["name"] for s in dip["supervisors"]))
 doc.add_paragraph("Abstract: " + dip["abstract"])
 
 # === Presentations ===
-styled_heading(f"Scientific Presentations ({len(presentations_data)})", level=1)
+styled_heading(f" 🗣️ Scientific Presentations ({len(presentations_data)})", level=1)
 for t in presentations_data:
     p = doc.add_paragraph(f"{t['number']}. ")
     create_hyperlink(p, t["title"], t["link"])
     p.add_run(f" — {t['event']}")
 
 # === Posters ===
-styled_heading(f"Posters ({len(posters_data)})", level=1)
+styled_heading(f" 🧾 Posters ({len(posters_data)})", level=1)
 for p in posters_data:
     para = doc.add_paragraph(f"{p['number']}. ")
     create_hyperlink(para, p["title"], p.get("link"))
