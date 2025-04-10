@@ -1,8 +1,16 @@
-# Curriculum Vitae of Jakob Löber
+# 📄 Curriculum Vitae of Jakob Löber
 
 PhD in Theoretical Physics | Data Science | Web Development | Augmented Reality
 
-## Professional Background
+Gärtnerstraße 13, 10245 Berlin  
+📞 +49 1573 5586275  
+✉️ jakob@physik.tu-berlin.de  
+🗓️ Born: 1982-09-21 in Erfurt  
+💼 Status: single, Children: No  
+🎓 PhD physicist  
+🌐 [GitHub](https://github.com/jakobatgithub)
+
+## 💼 Professional Background
 
 **since 02/2024**  
 Fullstack Developer — *[Prosumio GmbH, Berlin](https://prosumio.de/)*
@@ -40,7 +48,7 @@ Scientific Assistant — *Max Planck Institute for the Physics of Complex System
 Scientific Assistant — *Technical University Berlin*
 - Postdoc in the research group 'Nonlinear Dynamics and Pattern Formation'
 
-## Education
+## 🎓 Education
 
 **2011 – 2015**  
 PhD in Theoretical Physics — *Technical University Berlin*
@@ -56,7 +64,7 @@ Diploma in Physics — *Technical University Berlin*
 High School Diploma in  — *von-Bülow Gymnasium Neudietendorf*
 - Grade: 1.8
 
-## Other Activities and Experiences
+## 🌟 Other Activities and Experiences
 
 **01/2022 – 04/2022**  
 Data Science Bootcamp — *Data Science Retreat, Berlin*
@@ -84,9 +92,9 @@ Backpacking through Asia and Africa — *Worldwide*
 
 
 <details>
-<summary>Skills Overview</summary>
+<summary>🧰 Skills Overview</summary>
 
-# Skills Overview
+# 🧰 Skills Overview
 
 <table><tr>
 <th align='left' style='padding-right: 20px;'><strong>Programming Languages</strong></th>
@@ -357,9 +365,9 @@ Backpacking through Asia and Africa — *Worldwide*
 
 
 <details>
-<summary>Publications</summary>
+<summary>📚 Publications</summary>
 
-# Publications (21)
+# 📚 Publications (21)
 
 1. **Wave propagation in heterogeneous bistable and excitable media**  
    *S. Alonso, J. Löber, M. Bär, H. Engel*  
@@ -470,12 +478,12 @@ Backpacking through Asia and Africa — *Worldwide*
 
 
 <details>
-<summary>Academic Theses</summary>
+<summary>📘 Academic Theses</summary>
 
-# Academic Theses
+# 📘 Academic Theses
 
 
-## Doctoral Thesis
+## 📗 Doctoral Thesis
 
 **Title:** [Optimal trajectory tracking](http://www.physik.tu-berlin.de/~jakob/thesis_PhD.pdf)  
 
@@ -489,7 +497,7 @@ Backpacking through Asia and Africa — *Worldwide*
 This thesis investigates optimal trajectory tracking of nonlinear dynamical systems with affine controls. The control task is to enforce the system state to follow a prescribed desired trajectory as closely as possible. The concept of so-called exactly realizable trajectories is proposed. For exactly realizable desired trajectories exists a control signal which enforces the state to exactly follow the desired trajectory. For a given affine control system, these trajectories are characterized by the so-called constraint equation. This approach does not only yield an explicit expression for the control signal in terms of the desired trajectory, but also identifies a particularly simple class of nonlinear control systems. Systems in this class satisfy the so-called linearizing assumption and share many properties with linear control systems. For example, conditions for controllability can be formulated in terms of a rank condition for a controllability matrix analogously to the Kalman rank condition for linear time invariant systems. Furthermore, exactly realizable trajectories, together with the corresponding control signal, arise as solutions to unregularized optimal control problems. Based on that insight, the regularization parameter is used as the small parameter for a perturbation expansion. This results in a reinterpretation of affine optimal control problems with small regularization term as singularly perturbed differential equations. The small parameter originates from the formulation of the control problem and does not involve simplifying assumptions about the system dynamics. Combining this approach with the linearizing assumption, approximate and partly linear equations for the optimal trajectory tracking of arbitrary desired trajectories are derived. For vanishing regularization parameter, the state trajectory becomes discontinuous and the control signal diverges. On the other hand, the analytical treatment becomes exact and the solutions are exclusively governed by linear differential equations. Thus, the possibility of linear structures underlying nonlinear optimal control is revealed. This fact enables the derivation of exact analytical solutions to an entire class of nonlinear trajectory tracking problems with affine controls. This class comprises, among others, mechanical control systems in one spatial dimension and the FitzHugh-Nagumo model with a control acting on the activator.
 
 
-## Diploma Thesis
+## 📕 Diploma Thesis
 
 **Title:** [Nonlinear Excitation Waves in Spatially Heterogeneous Reaction-Diffusion Systems](http://www.physik.tu-berlin.de/~jakob/thesis.pdf)  
 
@@ -502,9 +510,9 @@ Wave propagation in one-dimensional heterogeneous bistable media is studied for 
 
 
 <details>
-<summary>Scientific Presentations</summary>
+<summary>🗣️ Scientific Presentations</summary>
 
-# Scientific Presentations (44)
+# 🗣️ Scientific Presentations (44)
 
 
 1. [Velocity of Fronts in Heterogeneous Reaction-Diffusion Systems](http://www.physik.tu-berlin.de/~jakob/Vortrag2.pdf)  
@@ -642,9 +650,9 @@ Wave propagation in one-dimensional heterogeneous bistable media is studied for 
 
 
 <details>
-<summary>Posters</summary>
+<summary>🧾 Posters</summary>
 
-# Posters (11)
+# 🧾 Posters (11)
 
 
 1. [Velocity of Fronts in Periodic-Heterogeneous Reaction Diffusion Systems](http://www.physik.tu-berlin.de/~jakob/poster.pdf)  

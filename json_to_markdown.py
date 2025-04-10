@@ -11,17 +11,30 @@ def save_markdown(content, filename):
 # === CV ===
 
 def render_cv_markdown(data):
-    lines = ["# Curriculum Vitae of Jakob Löber\n"]
+    lines = ["# 📄 Curriculum Vitae of Jakob Löber\n"]
     lines.append("PhD in Theoretical Physics | Data Science | Web Development | Augmented Reality\n")
 
-    lines.append("## Professional Background\n")
+    info = data.get("information", {})
+
+    # Contact Info Section
+    if info:
+        lines.append(f"{info['address']}  \n"
+                     f"📞 {info['phone']}  \n"
+                     f"✉️ {info['email']}  \n"
+                     f"🗓️ Born: {info['date_of_birth']} in {info['place_of_birth']}  \n"
+                     f"💼 Status: {info['marital_status']}, Children: {'No' if not info['children'] else 'Yes'}  \n"
+                     f"🎓 {info['profession']}  \n"
+                     f"🌐 [GitHub]({info['github']})\n")
+
+
+    lines.append("## 💼 Professional Background\n")
     for job in data["professional_background"]:
         company = f"[{job['company']}]({job['link']})" if "link" in job else job["company"]
         lines.append(f"**{job['period']}**  \n{job['position']} — *{company}*")
         lines.extend(f"- {d}" for d in job.get("details", []))
         lines.append("")
 
-    lines.append("## Education\n")
+    lines.append("## 🎓 Education\n")
     for edu in data["education"]:
         lines.append(f"**{edu['period']}**  \n{edu['degree']} in {edu.get('field', '')} — *{edu['institution']}*")
         if "grade" in edu:
@@ -36,7 +49,7 @@ def render_cv_markdown(data):
             lines.append(f"- Summary: {edu['summary']}")
         lines.append("")
 
-    lines.append("## Other Activities and Experiences\n")
+    lines.append("## 🌟 Other Activities and Experiences\n")
     for act in data["other_activities_and_experiences"]:
         lines.append(f"**{act['period']}**  \n{act['activity']} — *{act['organization']}*")
         if "topics" in act:
@@ -53,7 +66,7 @@ def score_to_bar(score, max_score=10):
     return f"[{'■' * score}{'□' * (max_score - score)}]"
 
 def render_skills_markdown(data, columns=7):
-    lines = ["# Skills Overview\n"]
+    lines = ["# 🧰 Skills Overview\n"]
 
     categories = list(data.items())
 
@@ -115,7 +128,7 @@ def decode_latex_accents(text):
     return text
 
 def render_publications_markdown(data):
-    lines = [f"# Publications ({len(data)})\n"]
+    lines = [f"# 📚 Publications ({len(data)})\n"]
     for i, pub in enumerate(data, 1):
         authors = decode_latex_accents(pub["authors"].strip().rstrip(","))
         title = decode_latex_accents(pub["title"])
@@ -134,9 +147,9 @@ def render_thesis_markdown(data):
     def render_supervisors(supervisors):
         return ", ".join(link(s['name'], s['link']) for s in supervisors)
 
-    md = ["# Academic Theses\n"]
+    md = ["# 📘 Academic Theses\n"]
     dt = data["doctoral_thesis"]
-    md.append(section("Doctoral Thesis"))
+    md.append(section("📗 Doctoral Thesis"))
     md.append(bold("Title", link(dt["title"], dt["pdf_link"])))
     md.append(bold("Supervisors", render_supervisors(dt["supervisors"])))
     md.append(bold("Date of Defence", dt["date_of_defence"]))
@@ -144,7 +157,7 @@ def render_thesis_markdown(data):
     md.append("**Abstract:**\n" + dt["abstract"] + "\n")
 
     dip = data["diploma_thesis"]
-    md.append(section("Diploma Thesis"))
+    md.append(section("📕 Diploma Thesis"))
     md.append(bold("Title", link(dip["title"], dip["pdf_link"])))
     md.append(bold("Supervisors", render_supervisors(dip["supervisors"])))
     md.append("**Abstract:**\n" + dip["abstract"] + "\n")
@@ -155,7 +168,7 @@ def render_thesis_markdown(data):
 # === Presentations ===
 
 def render_presentations_markdown(data):
-    lines = [f"# Scientific Presentations ({len(data)})\n"]
+    lines = [f"# 🗣️ Scientific Presentations ({len(data)})\n"]
     for i, t in enumerate(data, 1):
         lines.append(f"{i}. [{t['title']}]({t['link']})  \n   _{t['event']}_")
     return "\n\n".join(lines)
@@ -164,7 +177,7 @@ def render_presentations_markdown(data):
 # === Posters ===
 
 def render_posters_markdown(data):
-    lines = [f"# Posters ({len(data)})\n"]
+    lines = [f"# 🧾 Posters ({len(data)})\n"]
     for i, p in enumerate(data, 1):
         lines.append(f"{i}. [{p['title']}]({p['link']})  \n   _{p['event']}_")
     return "\n\n".join(lines)
@@ -178,11 +191,11 @@ def render_full_cv(cv_data, skills_data, publications_data, thesis_data, present
 
     parts = [
         render_cv_markdown(cv_data),
-        collapsible("Skills Overview", render_skills_markdown(skills_data)),
-        collapsible("Publications", render_publications_markdown(publications_data)),
-        collapsible("Academic Theses", render_thesis_markdown(thesis_data)),
-        collapsible("Scientific Presentations", render_presentations_markdown(presentations_data)),
-        collapsible("Posters", render_posters_markdown(posters_data)),
+        collapsible("🧰 Skills Overview", render_skills_markdown(skills_data)),
+        collapsible("📚 Publications", render_publications_markdown(publications_data)),
+        collapsible("📘 Academic Theses", render_thesis_markdown(thesis_data)),
+        collapsible("🗣️ Scientific Presentations", render_presentations_markdown(presentations_data)),
+        collapsible("🧾 Posters", render_posters_markdown(posters_data)),
     ]
 
     output = "\n\n".join(parts)

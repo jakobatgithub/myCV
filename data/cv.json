@@ -1,4 +1,16 @@
 {
+  "information": {
+      "name": "Jakob Löber",
+      "address": "Gärtnerstraße 13, 10245 Berlin",
+      "phone": "+49 1573 5586275",
+      "email": "jakob@physik.tu-berlin.de",
+      "date_of_birth": "1982-09-21",
+      "place_of_birth": "Erfurt",
+      "marital_status": "single",
+      "children": false,
+      "profession": "PhD physicist",
+      "github": "https://github.com/jakobatgithub"  
+  },
   "professional_background": [
     {
       "period": "since 02/2024",
